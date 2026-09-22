@@ -23,6 +23,7 @@ The target OpenClaw built-in Skill Creator and live validation remain required b
 Owner: ZedBiz. Source: https://github.com/ZedBiz44/z-creative-asset-analysis-Skill
 Plan: https://app.notion.com/p/3e3a3e33d5818012b3d9e6c6e5355758
 Technical tracker: https://github.com/ZedBiz44/z-creative-asset-analysis-Skill/issues/1
+Operating SOP: https://app.notion.com/p/3e3a3e33d58181afb164d34266945c52
 
 Keep secrets and confidential client material out of this repository.
 Existing assignment approval carries through ordinary handoffs; material new cost, client delivery and publication need applicable authority.
