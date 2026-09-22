@@ -9,7 +9,7 @@ description: Develop hooks and visual concepts for still marketing graphics; ass
 
 Develop or assess the marketing direction of a still graphic.
 Use existing project context to identify the audience, one communication job and intended response.
-Select concept development when there is no usable direction; assess a supplied concept or draft otherwise.
+Select concept development when there is no usable direction. A missing, generic, sensational, or disconnected hook is not usable. Assess a supplied concept or draft otherwise.
 Use supplied references within either job when they help; do not require examples.
 Ask one focused question only when the answer materially changes the recommendation.
 Otherwise state the relevant assumption and give useful provisional direction.
@@ -25,7 +25,7 @@ Done when the requested decision and the available facts are clear.
 - Keep video, motion, carousel design, analytics integrations and causal campaign analysis outside V1.
 - Do not create pixels, run paid generation, publish, install providers or send messages under analysis authority.
 
-For a combined create request, production coordinates the job and uses analysis when direction is missing.
+For a combined create request, production coordinates the job and uses analysis when direction is missing or the supplied hook is generic, sensational, or disconnected.
 The original create request covers the ordinary internal handoffs; do not request permission for each transition.
 Honor existing approval for scope, provider, cost and destination; stop for a material change outside it.
 An analysis-only request ends with advice or the requested brief, not production.
