@@ -1,0 +1,4 @@
+interface:
+  display_name: "Z Creative Asset Analysis"
+  short_description: "Develop and assess still-graphic creative directions"
+  default_prompt: "Use $z-creative-asset-analysis to develop or assess a still-graphic direction for my audience and goal."
