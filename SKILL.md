@@ -91,3 +91,7 @@ If analysis and critique disagree after a focused clarification, name the specif
 Leave production's final-file inspection and delivery checks intact. Review readiness is not publishing clearance.
 On repeated access failure, stop after three attempts or the runtime's lower limit and retain useful partial findings.
 Finish when the asset was actually inspected or the limitation stated, findings fit the audience and goal, proposed changes preserve approved facts, and the requested next action is clear.
+
+## Social-post operating sources
+
+Read the current [shared framework](https://app.notion.com/p/3e4a3e33d581811f9983cb136fbc7fe3) for the social-post process. Use its [Social Media Post Brief](https://app.notion.com/p/3eaa3e33d5818057a095cf3b35d2a1e9) as the only brief template. Supplied copies of an assignment brief may be used when direct Notion access is unavailable; state any material access gap.

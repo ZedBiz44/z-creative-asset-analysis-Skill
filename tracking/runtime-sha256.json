@@ -1,8 +1,8 @@
 {
-  "SKILL.md": "ad4d788d29d0ee4524c1d9f662a67d32be87c5a076e9c534f024993e5159d89e",
-  "agents/openai.yaml": "a7b9f01e2a46d334bcb4b9fbefd194c5307706dfdb3938bd94a3ef7be9999683",
-  "references/analysis-criteria.md": "64bc0d8213f18c02ae6c2238d6daf0cac3ee3429c7e941023a16ff3c3d716bc4",
-  "references/reference-principles.md": "f5f8a707d225e7973eee03d9069c9a203be0e4a1610796abcb70a7774b4483eb",
-  "references/response-patterns.md": "5556ead47501135a73abe3665dce222941e6c69f10ea8d8ff0a43c37c5668589",
-  "references/runtime.md": "4a557cc7bff58b8e0bcca201aaac1378321e3fc8cd4c468031e01ceb2bd71068"
+  "SKILL.md": "9da78f2aa5d7c3e1ea1f2cf6a9ad628dc5af9424ce9882a8c3efdc0f55c7aca5",
+  "agents/openai.yaml": "79e24fdcc499a0887e9874feddb46ad687f5e5ecafd803a70280018b7c7660ab",
+  "references/analysis-criteria.md": "b513769ffba4da9ae7c566140d341e2ea1d45bdc128431858d8beb06760e83a6",
+  "references/reference-principles.md": "af1ae9acad4b96ac1cf921313da404ad38eb9f06474321d878bcaf77cd43a511",
+  "references/response-patterns.md": "343f85ef2a5775e4c6687f5f8659e5e8c06599e5de03b76bb8ef7b6020f08ae6",
+  "references/runtime.md": "6eb57718e8543934376afdb2631ae06dba08201f13ff5832a1eafa7d8a0a5934"
 }
